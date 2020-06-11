@@ -1,0 +1,5 @@
+Hosts file located in ->
+
+C:\Windows\System32\drivers\etc
+
+Create a backup of the hosts file first
